@@ -1,0 +1,13 @@
+C:\Users\seeduc.NAVE0\Downloads\Arcanoid\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\UnityEditor.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\UnityEngine.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\nunit.framework.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\obj\Debug\Assembly-CSharp.dll
+C:\Users\seeduc\Downloads\Arcanoid\Arcanoid\obj\Debug\Assembly-CSharp.pdb
