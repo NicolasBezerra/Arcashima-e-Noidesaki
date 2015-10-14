@@ -17,8 +17,8 @@ public class movimentaDog : MonoBehaviour {
 
 		transform.localScale = new Vector3 (1.6f,transform.localScale.y,0);
 
-        xminimo = -6.5f;
-        xmaximo = 6.5f;
+        xminimo = -7.5f;
+        xmaximo = 7.4f;
 		control = 0;
 
 	}
